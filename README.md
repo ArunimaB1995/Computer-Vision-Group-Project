@@ -1,4 +1,3 @@
-# Computer-Vision-Project
 ### The title of the Project is:
 ## “Real time Object Detection and Distance Measurement using Computer Vision”
 ## Object Detection models:
