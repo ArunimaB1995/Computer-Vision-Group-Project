@@ -4,9 +4,10 @@ The title of the Project is:
 ## Object Detection models:
 Mobile-Net SSD
 YoloV3
-
 ## Face Recognition algorithm:
-LBPH Face Recognizer
+LBPH Face Recognizer (Haarcascades)
+
+
 Download 'yolov3.weights' file from this link:
 https://pjreddie.com/media/files/yolov3.weights
 
