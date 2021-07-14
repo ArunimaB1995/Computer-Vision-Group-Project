@@ -17,6 +17,10 @@ Run this file:
 ```
 Project_Integration.ipynb
 ```
+Requirements:
+```
+pip install -r requirements.txt
+```
 Video demo:
 
 https://user-images.githubusercontent.com/74100747/125657892-6161189c-bbe2-4948-a759-bc9e2a982169.mp4
