@@ -3,7 +3,9 @@
 ## Object Detection models:
 ### Mobile-Net SSD:
 MobileNet is based on the ideology of depthwise separable convolutions, and it forms a factorized Convolutions which converts a basic standard convolution into a depthwise convolutions.
-### YOLOv3 (used here for traffic-sign detection and recognition):
+### YOLOv3:
+(Used here for traffic-sign detection and recognition)
+
 YOLO-V3 was inspired by ResNet and FPN (Feature-Pyramid Network) architectures, its feature extractor, Darknet-53 has 52 convolutions. It contains skip connections (like ResNet) and 3 prediction heads (like FPN) each processing the image at a different spatial compression.
 ### Distance Measurement:
 Triangular similarity or Triangle similarity, suggests that if we know any three parameters, we can find the remaining one. So, we are going to capture an image, of an object, of known width and height. From F = (P x D) / W, where F = Focal length, P = Pixels, D = distance and W = Width, we can determine focal length. Then substituting the focal length in D = (W x F) / P, we can find the corresponding real time distance from the camera.
